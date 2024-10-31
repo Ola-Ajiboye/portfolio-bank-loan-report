@@ -1,4 +1,4 @@
-# portfolio-bank-loan-report
+# Bank-Loan-Report
 
 ## OVERVIEW
 The Bank Loan Report provides a comprehensive analysis to monitor and assess our bank's lending activities and performance, we need to create a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
@@ -15,7 +15,7 @@ Data Cleaning: This involved removing duplicated, fixing inconsistencies, handle
 EDA provide a clear and insightful view of our lending operations, facilitating data-driven decision-making and enabling us to gain valuable insights into various loan parameters. Below are some of the specific requirements.
 
 
-![cicc](https://github.com/user-attachments/assets/3a6500d7-87c5-43e6-9afc-bfc682b496a3)
+[cicc](https://github.com/user-attachments/assets/3a6500d7-87c5-43e6-9afc-bfc682b496a3)
 
 
 •	Monthly Trends by Issue Date
