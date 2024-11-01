@@ -15,7 +15,7 @@ Data Cleaning: This involved removing duplicated, fixing inconsistencies, handle
 EDA provide a clear and insightful view of our lending operations, facilitating data-driven decision-making and enabling us to gain valuable insights into various loan parameters. Below are some of the specific requirements.
 
 
-[cicc](https://github.com/user-attachments/assets/3a6500d7-87c5-43e6-9afc-bfc682b496a3)
+![cicc](https://github.com/user-attachments/assets/3a6500d7-87c5-43e6-9afc-bfc682b496a3)
 
 
 •	Monthly Trends by Issue Date
