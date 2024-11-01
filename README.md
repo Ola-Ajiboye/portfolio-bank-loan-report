@@ -39,7 +39,6 @@ FROM financial_loan
 GROUP BY MONTH(ISSUE_DATE), DATENAME (MONTH, ISSUE_DATE)
 ORDER BY MONTH(ISSUE_DATE), DATENAME (MONTH, ISSUE_DATE)
 ```
-![vvv](https://github.com/user-attachments/assets/607b89d8-9010-4ae5-b3cc-d0c19055d845)
 
 ![xx](https://github.com/user-attachments/assets/2b0af339-a2db-48d5-b930-e48265336e1c)
 
